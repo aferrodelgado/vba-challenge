@@ -10,4 +10,4 @@ Add functionality to your script to return the stock with the "Greatest % increa
 
 Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every quarter) at once.
 
-Utilized Learning Assistant and Chat GPT for assistance in coding and resolving error messages.
+Utilized Xpert Learning Assistant and Chat GPT for assistance in coding and resolving error messages.
